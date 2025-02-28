@@ -1,0 +1,14 @@
+C:\Users\vakal\source\repos\practicequestions\practicequestions\bin\Debug\net8.0\practicequestions.exe
+C:\Users\vakal\source\repos\practicequestions\practicequestions\bin\Debug\net8.0\practicequestions.deps.json
+C:\Users\vakal\source\repos\practicequestions\practicequestions\bin\Debug\net8.0\practicequestions.runtimeconfig.json
+C:\Users\vakal\source\repos\practicequestions\practicequestions\bin\Debug\net8.0\practicequestions.dll
+C:\Users\vakal\source\repos\practicequestions\practicequestions\bin\Debug\net8.0\practicequestions.pdb
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\practicequestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\practicequestions.AssemblyInfoInputs.cache
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\practicequestions.AssemblyInfo.cs
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\practicequestions.csproj.CoreCompileInputs.cache
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\practicequestions.dll
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\refint\practicequestions.dll
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\practicequestions.pdb
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\practicequestions.genruntimeconfig.cache
+C:\Users\vakal\source\repos\practicequestions\practicequestions\obj\Debug\net8.0\ref\practicequestions.dll
